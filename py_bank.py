@@ -59,11 +59,6 @@ def main_menu(message = 'Još niste otvorili račun. Molimo prvo kreirajte raču
         elif choice == 0:
             exit()
             break
-            # os.system('cls' if os.name == 'nt' else 'clear') 
-            # print('*' * 65)
-            # print('PyBANK ALGEBRA\n'.center(65), '\n')
-            # print('Hvala što ste koristili aplikaciju. Doviđenja!')
-            # False
         elif choice not in range(6):
             message = 'Pogrešan unos, pokušajte ponovno!'
         else:
