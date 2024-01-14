@@ -1,0 +1,3 @@
+Vađe rješenje je jako dobro, međutim, ne znam programirate li Vi već u Pythonu. Ovo se pitam jer ste koristili popis ključeva iz rječnika kao izvor podataka za poruke korisniku prilikom unosa nekih vrijednosti. To je jako dobro rješenje, jer osigurava fleksibilnost koda. Ovo je u funkciji create_account() od linije 78.
+
+Ostalo nemam ništa za dodati. Sve je jako dobro. Ako niste prije programirali super Vam ide i samo nastavite tako, a ako već programirate, nadam se da ćete nešto novo naučiti tijekom nastave.
